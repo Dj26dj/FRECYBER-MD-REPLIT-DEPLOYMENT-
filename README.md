@@ -3,18 +3,18 @@
 ## HOW TO DEPLOY FRECYBER MD IN REPLIT
 
 ## 1. Open Frecyber md repo 
-[Frecyber md repo here](https://github.com/Frecyber/Frecyber-md) 
+[`Frecyber md repo here`](https://github.com/Frecyber/Frecyber-md) 
 
 ## 2. Fork Frecyber-md repo 
-[Frecyber md fork here](https://github.com/Frecyber/Frecyber-md/fork) 
+[`Frecyber md fork here`](https://github.com/Frecyber/Frecyber-md/fork) 
 
 ## 3. Pair Session 🆔 
-[By Qr scan](https://frecyber-md-site-8f48f2e443c0.herokuapp.com/) 
+[`By Qr scan`](https://frecyber-md-site-8f48f2e443c0.herokuapp.com/) 
 
-[By pair code](https://frecyber-md-site-8f48f2e443c0.herokuapp.com/pair) 
+[`By pair code`](https://frecyber-md-site-8f48f2e443c0.herokuapp.com/pair) 
 
 ## 4. After take your session ID open here your replit dashboard
-[DEPLOY replit](Https://replit.com)
+[`DEPLOY replit`](Https://replit.com)
 
 ## 5. Tap Replit option button 🔳 in top👆 left 👈 side of dashboard
 
@@ -75,13 +75,16 @@
 
 ### ***`AFTER FINISHING RUN GO TO YOUR WATSAPP TEST YOUR BOT IS RUNNING`***
 
+## DEVELOPER INFO OPEN THERE 👇
+[`FredieTech Info`](https://github.com/Fred1e/FREDIETECH-INFO/tree/main) 
+
 ## For more information follow my github accounts
 
 # Fredie
-[Fred1e](https://github.com/Fred1e) 
+[`Fred1e`](https://github.com/Fred1e) 
 
 # Frecyber 
-[Frecyber](https://github.com/Frecyber) 
+[`Frecyber`](https://github.com/Frecyber) 
 
 
 THANK YOU FOR CHOOSING FREDIE TECH 🙏 
