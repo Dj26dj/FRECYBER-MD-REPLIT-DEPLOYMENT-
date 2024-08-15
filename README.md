@@ -16,7 +16,7 @@
 ## 4. After take your session ID open here your replit dashboard
 [DEPLOY replit](Https://replit.com)
 
-## 5. Tap Replit option button 🔳 in top left 👈 side of dashboard 
+## 5. Tap Replit option button 🔳 in top👆 left 👈 side of dashboard 
 
 ## 6. Choose IMPORT FROM GITHUB 
 
@@ -41,7 +41,11 @@
 ### ***`AFTER FINISHING RUN GO TO YOUR WATSAPP TEST YOUR BOT IS RUNNING`***
 
 ## For more information follow my github accounts
+
+# Fredie
 [Fred1e](https://github.com/Fred1e) 
+
+# Frecyber 
 [Frecyber](https://github.com/Frecyber) 
 
 
